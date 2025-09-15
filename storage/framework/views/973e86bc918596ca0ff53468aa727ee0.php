@@ -1,0 +1,2 @@
+<img src="<?php echo e(asset('image/logo.jpg')); ?>" alt="Logo" <?php echo e($attributes->merge(['class' => 'h-10 w-10 rounded-full'])); ?>>
+<?php /**PATH C:\Users\Wendil Rey\Desktop\Libsys\Capstone\resources\views/components/application-logo.blade.php ENDPATH**/ ?>
